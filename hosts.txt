@@ -11343,3 +11343,18 @@
 
 # [zynga.com]
 127.0.0.1 log-collector.svctr.zynga.com
+
+# [adcolony.com]
+127.0.0.1 wd.adcolony.com
+
+# [adcolony.com]
+127.0.0.1 events3.adcolony.com
+
+# [adcolony.com]
+127.0.0.1 adc3-launch.adcolony.com
+
+# [tapjoy.com]
+127.0.0.1 rpc.tapjoy.com
+
+# [pangle.io]
+127.0.0.1 api16-access-sg.pangle.io
